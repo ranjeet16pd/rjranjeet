@@ -1,0 +1,44 @@
+h1:hover {
+    color: rgb(27, 26, 26);
+    font-size: 50;
+    background-color: rgb(140, 0, 255);
+}
+
+body {
+    background-color: rgb(189, 171, 137);
+}
+
+p {
+    font-size: 30px;
+}
+
+img:hover {
+    background-color: rgb(156, 156, 15);
+}
+
+
+/* class selector */
+
+.rjphoto {
+    background-color: rgb(62, 32, 167);
+}
+
+.tttt {
+    background-color: rgb(130, 238, 211);
+}
+
+.circular {
+    border-radius: 100%;
+}
+
+
+/*                    id delector */
+
+#my {
+    color: rgb(19, 18, 16);
+}
+
+#headline {
+    font-size: 20px;
+    color: gold;
+}
